@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import { ParallaxProvider, Parallax } from "react-scroll-parallax";
-import ParticleBackground from "./Particlebackground";
+import ParticleBackground from "./ParticleBackground.jsx";
 import Profile from "./profile.jpeg";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
